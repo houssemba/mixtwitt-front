@@ -17,7 +17,7 @@
   "dependencies": {
     "angular": "1.6.9",
     "bootstrap": "3.3.7",
-    "jquery": "1.12.4"
+    "jquery": "3.4.0"
   },
   "devDependencies": {
     "ansi-colors": "1.1.0",
